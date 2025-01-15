@@ -1,0 +1,23 @@
+Source: velinux-archive-keyring
+Priority: important
+Section: misc
+Maintainer: Bytedance OS Team <velinux@bytedance.com>
+Uploaders: Wang Qiang <wangqiang.wq.frank@bytedance.com>
+Build-Depends: debhelper (>= 10)
+Rules-Requires-Root: no
+Standards-Version: 4.1.2
+
+Package: velinux-archive-keyring
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: velinux archive key
+
+Package: velinux-archive-keyring-udeb
+Package-Type: udeb
+Priority: optional
+Architecture: all
+Section: debian-installer
+Depends: ${misc:Depends}
+Recommends: gpgv-udeb
+Description: velinux archive key

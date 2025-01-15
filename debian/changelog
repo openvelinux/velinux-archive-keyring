@@ -1,0 +1,24 @@
+velinux-archive-keyring (2.0.0+ve2u1) lyra; urgency=medium
+
+  * Add LICENSE and README file
+  * Delete Vcs-Git and Vcs-Browser 
+
+ -- Jingxuan Xia <xiajingxuan@bytedance>  Fri, 13 Sep 2024 01:29:37 +0800
+
+velinux-archive-keyring (2.0.0+ve2) lyra; urgency=medium
+
+  * Release  2.0.0+ve2
+
+ -- Jingxuan Xia <xiajingxuan@bytedance>  Tue, 10 Sep 2024 23:40:37 +0800
+
+velinux-archive-keyring (2.0.0+base2) lyra; urgency=medium
+
+  * release base
+
+ -- Wang Qiang <wangqiang.wq.frank@bytedance.com>  Tue, 21 Nov 2023 21:05:14 +0800
+
+velinux-archive-keyring (2.0.0+byted2) lyra; urgency=medium
+
+  * import velinux lyra archive key
+
+ -- Wang Qiang <wangqiang.wq.frank@bytedance.com>  Mon, 21 Aug 2023 16:53:08 +0800
